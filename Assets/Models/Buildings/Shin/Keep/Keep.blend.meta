@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 526acfabb76279745ae167bde816889b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: building
+    100002: inner_building
+    100004: //RootNode
+    100006: TeamColor
+    100008: tower1
+    100010: tower2
+    100012: tower3
+    100014: tower4
+    100016: wall1
+    100018: wall2
+    100020: wall3
+    100022: wallGate
+    400000: building
+    400002: inner_building
+    400004: //RootNode
+    400006: TeamColor
+    400008: tower1
+    400010: tower2
+    400012: tower3
+    400014: tower4
+    400016: wall1
+    400018: wall2
+    400020: wall3
+    400022: wallGate
+    2100000: tower__UV_Keep_tower1_png
+    2100002: unnamed
+    2100004: wall__UV_Keep_wall1_png
+    2100006: second__UV_Keep_second1_png
+    2100008: main__UV_Keep_main1_png
+    2100010: gate__UV_Keep_gate1_png
+    2300000: building
+    2300002: inner_building
+    2300004: TeamColor
+    2300006: tower1
+    2300008: tower2
+    2300010: tower3
+    2300012: tower4
+    2300014: wall1
+    2300016: wall2
+    2300018: wall3
+    2300020: wallGate
+    3300000: building
+    3300002: inner_building
+    3300004: TeamColor
+    3300006: tower1
+    3300008: tower2
+    3300010: tower3
+    3300012: tower4
+    3300014: wall1
+    3300016: wall2
+    3300018: wall3
+    3300020: wallGate
+    4300000: tower1
+    4300002: tower2
+    4300004: tower3
+    4300006: TeamColor
+    4300008: wall3
+    4300010: wall1
+    4300012: wall2
+    4300014: inner_building
+    4300016: tower4
+    4300018: building
+    4300020: wallGate
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
