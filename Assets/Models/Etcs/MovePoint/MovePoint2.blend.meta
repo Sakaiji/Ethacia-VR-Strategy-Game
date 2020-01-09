@@ -1,0 +1,250 @@
+fileFormatVersion: 2
+guid: 3df05d611360aae49906eb4adadcabe5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arrow_B
+    100002: Arrow_L
+    100004: Arrow_R
+    100006: Arrow_T
+    100008: Base_B
+    100010: Base_B_001
+    100012: Base_B_002
+    100014: Base_B_003
+    100016: Base_L
+    100018: Base_L_001
+    100020: Base_L_002
+    100022: Base_L_003
+    100024: Base_R
+    100026: Base_R_001
+    100028: Base_R_002
+    100030: Base_R_003
+    100032: Base_T
+    100034: Base_T_001
+    100036: Base_T_002
+    100038: Base_T_003
+    100040: //RootNode
+    400000: Arrow_B
+    400002: Arrow_L
+    400004: Arrow_R
+    400006: Arrow_T
+    400008: Base_B
+    400010: Base_B_001
+    400012: Base_B_002
+    400014: Base_B_003
+    400016: Base_L
+    400018: Base_L_001
+    400020: Base_L_002
+    400022: Base_L_003
+    400024: Base_R
+    400026: Base_R_001
+    400028: Base_R_002
+    400030: Base_R_003
+    400032: Base_T
+    400034: Base_T_001
+    400036: Base_T_002
+    400038: Base_T_003
+    400040: //RootNode
+    2100000: Move
+    2300000: Arrow_B
+    2300002: Arrow_L
+    2300004: Arrow_R
+    2300006: Arrow_T
+    2300008: Base_B
+    2300010: Base_B_001
+    2300012: Base_B_002
+    2300014: Base_B_003
+    2300016: Base_L
+    2300018: Base_L_001
+    2300020: Base_L_002
+    2300022: Base_L_003
+    2300024: Base_R
+    2300026: Base_R_001
+    2300028: Base_R_002
+    2300030: Base_R_003
+    2300032: Base_T
+    2300034: Base_T_001
+    2300036: Base_T_002
+    2300038: Base_T_003
+    3300000: Arrow_B
+    3300002: Arrow_L
+    3300004: Arrow_R
+    3300006: Arrow_T
+    3300008: Base_B
+    3300010: Base_B_001
+    3300012: Base_B_002
+    3300014: Base_B_003
+    3300016: Base_L
+    3300018: Base_L_001
+    3300020: Base_L_002
+    3300022: Base_L_003
+    3300024: Base_R
+    3300026: Base_R_001
+    3300028: Base_R_002
+    3300030: Base_R_003
+    3300032: Base_T
+    3300034: Base_T_001
+    3300036: Base_T_002
+    3300038: Base_T_003
+    4300000: Base_T_003
+    4300002: Base_T_002
+    4300004: Base_T_001
+    4300006: Base_T
+    4300008: Base_B_003
+    4300010: Base_B_002
+    4300012: Base_B_001
+    4300014: Base_B
+    4300016: Base_L
+    4300018: Base_L_001
+    4300020: Base_L_002
+    4300022: Base_L_003
+    4300024: Base_R_003
+    4300026: Base_R_002
+    4300028: Base_R_001
+    4300030: Base_R
+    4300032: Arrow_R
+    4300034: Arrow_L
+    4300036: Arrow_T
+    4300038: Arrow_B
+    7400000: Default Take
+    7400002: Animation
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Animation
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
