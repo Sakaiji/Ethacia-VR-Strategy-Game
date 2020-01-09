@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f88f1f44cae05c840b994df470ad909f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - missile: {instanceID: 0}
+  - projPoint: {instanceID: 0}
+  - meleeEffect: {fileID: 5842366479877336537, guid: d13e42f8cbef0c0429c272e577bf8d54,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
