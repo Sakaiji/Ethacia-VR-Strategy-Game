@@ -2,10 +2,9 @@
 **type:** Senior Project, Virtual Reality
 **Game Genre:** Real-Time Strategy
 
-**This Project was moved from Unity Collab**
 --------------------------------------------------------
 ## Project Description
-
+**This Project was moved from Unity Collab**
 
 ## Used Tools
 - Unity
